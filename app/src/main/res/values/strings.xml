@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stockholm Budget Guide</string>
+    <string name="price">Price:</string>
+    <string name="name">Name Placeholder</string>
+    <string name="description">Descriptive Text Here</string>
+    <string name="£££">£££</string>
+</resources>
